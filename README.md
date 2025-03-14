@@ -40,7 +40,7 @@ The **Weather App** is a simple and interactive web application that allows user
    ```
 
 ## 📸 Screenshots
-https://github.com/PremaDongare/Weather-App/blob/main/Screenshot%20(271).png?raw=true
+https://github.com/PremaDongare/Weather-App/blob/main/Screenshot%20(271).png
 
 
 ## 🤝 Contributing
