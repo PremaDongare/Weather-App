@@ -1,5 +1,3 @@
-# React + Vite
-
 # Weather App
 
 ## 🌤 Overview
@@ -24,7 +22,7 @@ The **Weather App** is a simple and interactive web application that allows user
    ```
 2. Navigate to the project folder:
    ```bash
-   cd Weather-App
+   cd Mini-Project
    ```
 3. Install dependencies:
    ```bash
@@ -40,16 +38,11 @@ The **Weather App** is a simple and interactive web application that allows user
    ```
 
 ## 📸 Screenshots
-https://github.com/PremaDongare/Weather-App/blob/main/Screenshot%20(271).png
-
+![Weather App UI](https://github.com/PremaDongare/Weather-App/blob/main/Screenshot%20(271).png)
 
 ## 🤝 Contributing
 Contributions are welcome! Feel free to open issues or submit pull requests.
 
-## 📜 License
-This project is licensed under the **MIT License**.
-
 ---
 Made with ❤️ by Prema Dongare
-
 
